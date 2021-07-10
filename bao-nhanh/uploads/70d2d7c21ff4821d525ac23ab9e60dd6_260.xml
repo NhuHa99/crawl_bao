@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://plo.vn</link>
+  <description>Free web building tutorials</description>
+		<item>
+		    <title>TP.HCM: Khoanh vùng, kiểm tra đột xuất 'hung thần' karaoke </title>
+		    <link>https://plo.vn/thoi-su/tphcm-khoanh-vung-kiem-tra-dot-xuat-hung-than-karaoke-973650.html</link>
+		    <description>TP.HCM: Khoanh vùng, kiểm tra đột xuất 'hung thần' karaoke </description>
+	    </item>
+		<item>
+		    <title>Năm 2021: Sẽ có nhiều thay đổi về khai báo cư trú </title>
+		    <link>https://plo.vn/thoi-su/nam-2021-se-co-nhieu-thay-doi-ve-khai-bao-cu-tru-973643.html</link>
+		    <description>Năm 2021: Sẽ có nhiều thay đổi về khai báo cư trú </description>
+	    </item>
+		<item>
+		    <title>Trụ sở to có làm dân giàu lên?</title>
+		    <link>https://plo.vn/thoi-su/theo-dong-thoi-su/tru-so-to-co-lam-dan-giau-len-973614.html</link>
+		    <description>Trụ sở to có làm dân giàu lên?</description>
+	    </item>
+		<item>
+		    <title>Sẽ sửa quy định về các chứng chỉ liên quan đến viên chức</title>
+		    <link>https://plo.vn/thoi-su/se-sua-quy-dinh-ve-cac-chung-chi-lien-quan-den-vien-chuc-973616.html</link>
+		    <description>Sẽ sửa quy định về các chứng chỉ liên quan đến viên chức</description>
+	    </item>
+		<item>
+		    <title>TP.HCM nỗ lực cải thiện môi trường đầu tư</title>
+		    <link>https://plo.vn/thoi-su/tphcm-no-luc-cai-thien-moi-truong-dau-tu-973608.html</link>
+		    <description>TP.HCM nỗ lực cải thiện môi trường đầu tư</description>
+	    </item>
+</channel>
+</rss>

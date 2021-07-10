@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://dulich.tuoitre.vn</link>
+  <description>Free web building tutorials</description>
+		<item>
+		    <title>Lần đầu thử nghiệm 'hộ chiếu vắc xin' trên 2 chuyến bay giữa Nhật Bản và Đà Nẵng</title>
+		    <link>https://dulich.tuoitre.vn/lan-dau-thu-nghiem-ho-chieu-vac-xin-tren-2-chuyen-bay-giua-nhat-ban-va-da-nang-20210709112721356.htm</link>
+		    <description>Lần đầu thử nghiệm 'hộ chiếu vắc xin' trên 2 chuyến bay giữa Nhật Bản và Đà Nẵng</description>
+	    </item>
+		<item>
+		    <title>Phuket mở cửa, hàng trăm du khách đến ngay ngày đầu tiên</title>
+		    <link>https://dulich.tuoitre.vn/phuket-mo-cua-hang-tram-du-khach-den-ngay-ngay-dau-tien-20210702085251915.htm</link>
+		    <description>Phuket mở cửa, hàng trăm du khách đến ngay ngày đầu tiên</description>
+	    </item>
+		<item>
+		    <title>Thái Lan đặt cược với Phuket</title>
+		    <link>https://dulich.tuoitre.vn/thai-lan-dat-cuoc-voi-phuket-20210702104700928.htm</link>
+		    <description>Thái Lan đặt cược với Phuket</description>
+	    </item>
+</channel>
+</rss>
